@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "category": "Technology",
+    "date": "2025-09-16",
+    "excerpt": "This is a summary of the first blog post, exploring the latest trends in technology.",
+    "link": "/posts/post1.html"
+  },
+  {
+    "id": 2,
+    "title": "Second Blog Post",
+    "category": "Lifestyle",
+    "date": "2025-09-15",
+    "excerpt": "A brief overview of our second post, diving into lifestyle tips and tricks.",
+    "link": "/posts/post2.html"
+  },
+  {
+    "id": 3,
+    "title": "Third Blog Post",
+    "category": "Business",
+    "date": "2025-09-14",
+    "excerpt": "Learn about business strategies in this engaging post.",
+    "link": "/posts/post3.html"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Blog Post",
+    "category": "Education",
+    "date": "2025-09-13",
+    "excerpt": "Discover educational insights and resources in this post.",
+    "link": "/posts/post4.html"
+  },
+  {
+    "id": 5,
+    "title": "Fifth Blog Post",
+    "category": "Health",
+    "date": "2025-09-12",
+    "excerpt": "Tips for maintaining a healthy lifestyle in this blog post.",
+    "link": "/posts/post5.html"
+  },
+  {
+    "id": 6,
+    "title": "Sixth Blog Post",
+    "category": "Travel",
+    "date": "2025-09-11",
+    "excerpt": "Explore travel destinations and tips in this exciting post.",
+    "link": "/posts/post6.html"
+  },
+  {
+    "id": 7,
+    "title": "Seventh Blog Post",
+    "category": "Food",
+    "date": "2025-09-10",
+    "excerpt": "Delicious recipes and food tips in this post.",
+    "link": "/posts/post7.html"
+  }
+]
