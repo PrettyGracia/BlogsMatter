@@ -55,12 +55,50 @@
   }
 }
 
+.about {
+  max-width: 1400px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  gap: 2rem;
+  align-items: center;
+}
+
+.about img {
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.about-content {
+  padding: 1rem;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin: 0 0 1rem;
+}
+
+.about p {
+  font-size: 1.1rem;
+  color: #333;
+}
+
 @media (max-width: 768px) {
   .hero h1 {
     font-size: 2.5rem;
   }
   .hero p {
     font-size: 1.2rem;
+  }
+  .about {
+    grid-template-columns: 1fr;
+  }
+  .about img {
+    max-width: 100%;
   }
 }
 
@@ -69,6 +107,12 @@
     font-size: 2rem;
   }
   .hero p {
+    font-size: 1rem;
+  }
+  .about h2 {
+    font-size: 1.5rem;
+  }
+  .about p {
     font-size: 1rem;
   }
 }
